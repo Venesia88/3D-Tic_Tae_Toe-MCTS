@@ -5,6 +5,7 @@ Train agent using Monte Carlo Tree Search (MCTS) for playing 4x4x4 Tic-Tae-Toe
 State space: 4x4x4 integer array
 Action space: integer coordinates (x,y,z)
 Use MCTS for learning the policy
+Test the agent using test.py
 
 # Sample IO:
 The input will be 65 integers separated by spaces. The first integer indicates your player {1, −1}, the rest of them corresponds to the current board.
